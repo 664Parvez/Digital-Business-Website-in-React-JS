@@ -1,0 +1,13 @@
+[
+    {
+        "img" : "/img/digital-marketing.png",
+        "services_one" : "Social Media Marketing",
+        "services_two" : "Web Development",
+        "services_three" : "Custom Web Design",
+        "services_four" : "App Development",
+        "services_five" : "Email Marketing",
+        "services_six" : "Copywriting",
+        "services_seven" : "SEO", 
+        "services_eight" : "Domain Registration"
+    }
+]

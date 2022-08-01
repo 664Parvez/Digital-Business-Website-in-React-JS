@@ -1,0 +1,47 @@
+[
+    {
+        "img" : "/img/s9.webp",
+        "bigTitle" : "Brand Design & Strategy",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s8.webp",
+        "bigTitle" : "Copywriting & Strategy",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s7.webp",
+        "bigTitle" : "Social Media Management",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s6.webp",
+        "bigTitle" : "Graphics Designer",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s5.webp",
+        "bigTitle" : "Audience Analytics",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s4.webp",
+        "bigTitle" : "Website Development",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s3.webp",
+        "bigTitle" : "SEO",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s2.webp",
+        "bigTitle" : "Email Marketing",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+        "img" : "/img/s1.webp",
+        "bigTitle" : "Domain Registration",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    }
+]

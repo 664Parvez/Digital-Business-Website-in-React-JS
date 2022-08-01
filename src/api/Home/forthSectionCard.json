@@ -1,0 +1,23 @@
+[
+    {
+        "img" : "/img/1.webp",
+        "cardTitle" : "Digital Marketing Service",
+        "cardDescription" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta velit culpa est quod adipisci deleniti, non dicta facilis porro quisquam corrupti nisi iusto ab necessitatibus officiis ut autem enim illum aperiam modi reiciendis a dolorum.",
+        "author" : "Angel Witicker",
+        "position" : "Head of Marketing, Extra Space" 
+    },
+    {
+        "img" : "/img/2.webp",
+        "cardTitle" : "Web Development Service",
+        "cardDescription" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta velit culpa est quod adipisci deleniti, non dicta facilis porro quisquam corrupti nisi iusto ab necessitatibus officiis ut autem enim illum aperiam modi reiciendis a dolorum. Soluta velit culpa est quod adipisci deleniti, non dicta facilis porro quisquam corrupti nisi iusto ab necessitatibus ",
+        "author" : "Debra Becker",
+        "position" : "Founder & CEO, Divi Corner" 
+    },
+    {
+        "img" : "/img/3.webp",
+        "cardTitle" : "Search Engine Optimization Service",
+        "cardDescription" : "Lorem ipsum dolor, sit amet consectetur non dicta facilis porro qum illum aperiam modi reiciendis a dolorum. Soluta velit culpa est quod adipisci deleniti, non dicta facilis porro quisquam corrupti nisi iusto ab necessitatibus ",
+        "author" : "John Wise",
+        "position" : "Head of Design at Fiverr" 
+    }
+]

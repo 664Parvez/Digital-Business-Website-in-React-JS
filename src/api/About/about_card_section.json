@@ -1,0 +1,26 @@
+[
+    {
+        "img" : "/img/4.webp",
+        "name" : "Jim Caldwell",
+        "position" : "Founder & CEO",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/5.webp",
+        "name" : "Jennifer May",
+        "position" : "Director of Design",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/6.webp",
+        "name" : "Sonica Sana",
+        "position" : "Analytics Expert",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/7.webp",
+        "name" : "Marine Garrix",
+        "position" : "Head of Sales",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    }
+]

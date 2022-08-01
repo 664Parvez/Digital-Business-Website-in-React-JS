@@ -1,0 +1,32 @@
+[
+    {
+        "img" : "/img/corpkit.webp",
+        "bigTitle" : "Corp Kit Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/permanent_review.webp",
+        "bigTitle" : "Permanent Review Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/iasbd.webp",
+        "bigTitle" : "IASBD Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/DMA_llc.webp",
+        "bigTitle" : "DMA LLC Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/air_ambulance.webp",
+        "bigTitle" : "Air Ambulance Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    },
+    {
+        "img" : "/img/drms.webp",
+        "bigTitle" : "DRMS Website",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl."
+    }
+]

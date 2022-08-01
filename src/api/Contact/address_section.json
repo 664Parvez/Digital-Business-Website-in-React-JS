@@ -1,0 +1,17 @@
+[
+    {
+        "img" : "/img/icc2.webp",
+        "title" : "Office Address",
+        "contact" : [ "H #20, R #4, Faydabad, Dakshinkhan, Uttara, Dhaka - 1230" ]
+    },
+    {
+        "img" : "/img/icc3.webp",
+        "title" : "Contact Us",
+        "contact" : [ "parvezrabbi664@gmail.com", "01766118094" ] 
+    },
+    {
+        "img" : "/img/icc1.webp",
+        "title" : "Hours Of Operation",
+        "contact" : [ "Mon - Fri : 10am to 5pm", "Sat - Sun : Closed" ]
+    }
+]

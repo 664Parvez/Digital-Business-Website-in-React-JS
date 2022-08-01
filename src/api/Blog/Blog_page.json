@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "bigTitle" : "Blog One",
+        "slug" : "blog-one",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl. Donec ut ligula sed dolor accumsan placerat. Ut sed felis vitae augue condimentum viverra. Praesent condimentum magna sit amet dui interdum sodales.",
+        "btn" : "Read More",
+        "img" : "/img/blog1.webp"
+    },
+    {
+        "id" : 2,
+        "bigTitle" : "Blog Two",
+        "slug" : "blog-two",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl. Donec ut ligula sed dolor accumsan placerat. Ut sed felis vitae augue condimentum viverra. Praesent condimentum magna sit amet dui interdum sodales.",
+        "btn" : "Read More",
+        "img" : "/img/blog2.webp"
+    },
+    {
+        "id" : 3,
+        "bigTitle" : "Blog Three",
+        "slug" : "blog-three",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl. Donec ut ligula sed dolor accumsan placerat. Ut sed felis vitae augue condimentum viverra. Praesent condimentum magna sit amet dui interdum sodales.",
+        "btn" : "Read More",
+        "img" : "/img/blog3.webp"
+    },
+    {
+        "id" : 4,
+        "bigTitle" : "Blog Four",
+        "slug" : "blog-four",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl. Donec ut ligula sed dolor accumsan placerat. Ut sed felis vitae augue condimentum viverra. Praesent condimentum magna sit amet dui interdum sodales.",
+        "btn" : "Read More",
+        "img" : "/img/blog4.webp"
+    },
+    {
+        "id" : 5,
+        "bigTitle" : "Blog Five",
+        "slug" : "blog-five",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mi nunc, facilisis sed erat sed, interdum suscipit nisl. Donec ut ligula sed dolor accumsan placerat. Ut sed felis vitae augue condimentum viverra. Praesent condimentum magna sit amet dui interdum sodales.",
+        "btn" : "Read More",
+        "img" : "/img/blog5.webp"
+    }
+]

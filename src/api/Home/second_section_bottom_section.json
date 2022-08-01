@@ -1,0 +1,42 @@
+[
+    {
+        "img" : "/img/ic1.webp",
+        "divTitle" : "Brand Design & Strategy",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic3.webp",
+        "divTitle" : "Social Media Marketing",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic4.webp",
+        "divTitle" : "Audience Analytics",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic5.webp",
+        "divTitle" : "Search Engine Optimization",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic6.webp",
+        "divTitle" : "Copywriting Service",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic8.webp",
+        "divTitle" : "Graphics Design",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic2.webp",
+        "divTitle" : "Web Development",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    },
+    {
+        "img" : "/img/ic7.webp",
+        "divTitle" : "Email Marketing",
+        "des" : "Lorem ipsum dolor sit amet, adipiscing elit, sed do"
+    }
+]
